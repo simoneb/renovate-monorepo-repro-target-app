@@ -8265,10 +8265,10 @@ renderkid@^2.0.1:
     strip-ansi "^3.0.0"
     utila "^0.4.0"
 
-renovate-monorepo-package@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/renovate-monorepo-package/-/renovate-monorepo-package-0.0.2.tgz#35957b0cb9637939b3a071e377ae3a91f547274a"
-  integrity sha512-7+9oxXMEp6/yiARJ1iFUDEewAM5QTzItsCqCkwC0ig/IN8VswqmO9X3J2c4Sjyn7nQv8loVw66pf+2fzV5thvw==
+renovate-monorepo-package@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/renovate-monorepo-package/-/renovate-monorepo-package-0.0.5.tgz#0897dd6a593d37eed7db731f69e1ee34c58c1024"
+  integrity sha512-7EAcko4q5aV9sRkD9Hr/Tt0AJ5zhDEKJ0ja2hL3BrAIbKD+ha8lI9AB7sDkUoNui/DOHzsnK1nfcNcesUlwfpg==
 
 repeat-element@^1.1.2:
   version "1.1.3"
